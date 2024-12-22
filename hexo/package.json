@@ -12,6 +12,9 @@
     "version": "7.3.0"
   },
   "dependencies": {
+    "axios": "^1.7.9",
+    "clean-css": "^5.3.3",
+    "constantinople": "^4.0.1",
     "hexo": "^7.3.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-generator-archive": "^2.0.0",
@@ -25,6 +28,10 @@
     "hexo-renderer-marked": "^6.3.0",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0"
+    "hexo-theme-landscape": "^1.0.0",
+    "pug": "^3.0.3",
+    "send": "^1.1.0",
+    "serve-static": "^1.16.2",
+    "uglify-js": "^3.19.3"
   }
 }
